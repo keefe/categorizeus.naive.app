@@ -11,7 +11,7 @@
 	<properties>
 		<jetty.version>9.4.14.v20181114</jetty.version>
 		<categorizeus.version>0.1-SNAPSHOT</categorizeus.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.10.0</jackson.version>
 		<jersey.version>2.27</jersey.version>
 		<postgres.version>42.2.5</postgres.version>
 	</properties>
