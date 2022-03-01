@@ -9,7 +9,7 @@
 	<name>categorizeus.naive.app</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<jetty.version>9.4.14.v20181114</jetty.version>
+		<jetty.version>9.4.41.v20210516</jetty.version>
 		<categorizeus.version>0.1-SNAPSHOT</categorizeus.version>
 		<jackson.version>2.9.10.8</jackson.version>
 		<jersey.version>2.27</jersey.version>
