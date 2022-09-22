@@ -13,7 +13,7 @@
 		<categorizeus.version>0.1-SNAPSHOT</categorizeus.version>
 		<jackson.version>2.9.10.8</jackson.version>
 		<jersey.version>2.27</jersey.version>
-		<postgres.version>42.3.3</postgres.version>
+		<postgres.version>42.3.7</postgres.version>
 	</properties>
 	<build>
 		<plugins>
